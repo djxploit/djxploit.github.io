@@ -54,8 +54,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: djxploit/djxploit.github.io
-repository_tree: master
+repository: #
+repository_tree: #
 
 
 ## => Paths
